@@ -16,7 +16,7 @@ You may also see any lint errors in the console.
 
 ###
 
- <p align="1eft">Demo : https://cart-items-context.netlify.app</p> 
+ <p align="1eft">Netlify Demo : https://cart-items-context.netlify.app</p> 
 
 
 ## Setup
