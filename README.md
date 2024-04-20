@@ -1,9 +1,10 @@
-## Setup
+# React useContext Task
 
-Followig are the requirements to run this project:
-- vite --> React Project Build Tool
-- Node Package Manager (NPM)
-- React
+###
+
+<p align="left">This is an Cart Items List website which is based on react useContext Hook which was designed by me using React. It's Guvi-Zen class Roadmap session: React- Day -8: Context API.
+</p>
+
 
 ## npm run dev
 
@@ -12,6 +13,18 @@ Open [http://localhost:5174/#](http://localhost:5174/#) to view it in your brows
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+###
+
+ <p align="1eft">Demo : https://cart-items-context.netlify.app</p> 
+
+
+## Setup
+
+Followig are the requirements to run this project:
+- vite --> React Project Build Tool
+- Node Package Manager (NPM)
+- React
 
 
 ###
@@ -45,15 +58,3 @@ You may also see any lint errors in the console.
   <img width="12" />
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
 </div>
-
-
-# React useContext Task
-
-###
-
-<p align="left">This is an Cart Items List website which is based on react useContext Hook which was designed by me using React. It's Guvi-Zen class Roadmap session: React- Day -8: Context API.
-</p>
-
-###
-
- <p align="1eft">Demo : https://cart-items-context.netlify.app</p> 
